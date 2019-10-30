@@ -12,7 +12,7 @@ zip_code:
 country:
 phone: 
 
-icon: fas fa-mountain # Font Awesome class for your site's icon
+icon: fa-mountain # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
