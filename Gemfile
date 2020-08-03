@@ -6,3 +6,4 @@ git_source(:github) {|repo_name| "https://github.com/TomSHudson/TomSHudson.githu
 
 # gem "rails"
 gem "jekyll"
+gem 'jekyll-font-awesome-sass'
