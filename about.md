@@ -1,5 +1,5 @@
 ---
 title: about
-image: samuel_ferrara_unsplash.jpg
+image: T_Hudson_passport_size_photo.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.
+I am a seismologist, using geophysical observations, novel data processing methods and simple geophysical models to improve our understanding of fundamental earth system processes. My current expertise is primarily in elucidating geophysical processes at glaciers and volcanoes.

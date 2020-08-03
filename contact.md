@@ -2,26 +2,16 @@
 title: contact
 ---
 
-<form action="https://formspree.io/{{ site.email }}" method="POST">
-	<div class="fields">
-		<div class="field half first">
-			<label for="name">Name</label>
-			<input type="text" name="name" id="name" />
-		</div>
-		<div class="field half">
-			<label for="email">Email</label>
-			<input type="text" name="_replyto" id="email" />
-		</div>
-		<div class="field">
-			<label for="message">Message</label>
-			<textarea name="message" id="message" rows="4"></textarea>
-		</div>
-	</div>
-	<ul class="actions">
-		<li><input type="submit" value="Send Message" class="primary" /></li>
-		<li><input type="reset" value="Reset" /></li>
-	</ul>
-</form>
+<section>
+	<h3 class="major"></h3>
+	<p>Deapartment of Earth Sciences<br>University of Oxford<br>3 South Parks Rd<br>Oxford<br>OX1 3AN<br>United Kingdom </p>
+	<p>Email: thomas.hudson@earth.ox.ac.uk</p>
+	<p><a href="https://www.earth.ox.ac.uk/people/thomas-hudson/">Deaprtment webpage</a><br></p>
+
+</section>
+
+
+
 <ul class="icons">
 
 	{% if site.twitter_url %}

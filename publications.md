@@ -2,6 +2,9 @@
 title: publications
 image: matteo-maretto-toF6uojkBag-unsplash_library.jpg
 ---
+
+Please find a list of my publications below or on <a href="https://scholar.google.com/citations?user=cKSgqfgAAAAJ&hl=en">Google Scholar</a>.
+
 <section>
 	<h3 class="major">Accepted</h3>
 
