@@ -1,6 +1,6 @@
 # Site settings
 title: Tom Hudson
-email: youremailaddress@gmail.com
+email: thomas.hudson@earth.ox.ac.uk
 description: Welcome to my personal webpage detailing my research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomshudson.github.io" # the base hostname & protocol for your site
@@ -23,7 +23,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/tom-hudson-4628218b
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/TomSHudson
 
 # Build settings
 markdown: kramdown
