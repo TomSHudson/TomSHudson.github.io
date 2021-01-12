@@ -4,9 +4,9 @@ title: contact
 
 <section>
 	<h3 class="major"></h3>
-	<p>Deapartment of Earth Sciences<br>University of Oxford<br>3 South Parks Rd<br>Oxford<br>OX1 3AN<br>United Kingdom </p>
 	<p>Email: thomas.hudson@earth.ox.ac.uk</p>
-	<p><a href="https://www.earth.ox.ac.uk/people/thomas-hudson/">Deaprtment webpage</a><br></p>
+	<p><a href="https://www.earth.ox.ac.uk/people/thomas-hudson/">Department webpage</a><br></p>
+	<p>Deapartment of Earth Sciences<br>University of Oxford<br>3 South Parks Rd<br>Oxford<br>OX1 3AN<br>United Kingdom </p>
 
 </section>
 

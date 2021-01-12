@@ -1,7 +1,7 @@
 # Site settings
 title: Tom Hudson
 email: youremailaddress@gmail.com
-description: Welcome to my personal webpage detailing my research themes.
+description: Welcome to my personal webpage detailing my research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomshudson.github.io" # the base hostname & protocol for your site
 author: Tom Hudson
