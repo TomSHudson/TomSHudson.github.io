@@ -8,6 +8,24 @@ Please find a list of my publications below or on <a href="https://scholar.googl
 <section>
 	<h3 class="major">Accepted</h3>
 
+	<h4>2023</h4>
+	<ul class="alt">
+		<li><b>Hudson, T.S.</b>, Kendall, J.-M., Blundy, J.D.,Pritchard, M.E., MacQueen, P., Wei, S.S., Gottsmann, J., Lapins, S.. (2023). <i>"Hydrothermal fluids and where to find them: Using seismic attenuation and anisotropy to map fluids beneath Uturuncu volcano, Bolivia."</i> Geophysical Research Letters.</li>
+	</ul>
+
+	<h4>2022</h4>
+	<ul class="alt">
+		<li><b>Hudson, T.S.</b>, Kendall, JM., Pritchard, M.E., Gottsmann, J. (2022). <i>"From slab to surface: Earthquake evidence for fluid migration at Uturuncu volcano, Bolivia."</i> Earth and Planetary Science Letters.</li>
+		<li>Lanza, F., Roman, D.C., Power, J.A., Thurber, C.H., <b>Hudson, T.S.</b> (2022). <i>"Complex magmatic-tectonic interactions during the 2020 Makushin Volcano, Alaska, earthquake swarm."</i> Earth and Planetary Science Letters.</li>
+	</ul>
+
+	<h4>2021</h4>
+	<ul class="alt">
+		<li><b>T Hudson</b>, JM Kendall, SK Kufner, A Brisbourne, A Smith, A Chalari, A Clarke (2021) <i>“Distributed acoustic sensing (DAS) for microseismicity studies: A case study from Antarctica”</i> JGR: Solid Earth</li>
+		<li>SK Kufner, A Brisbourne, A Smith, <b>T Hudson</b>, T Murray, R Schlegel, JM Kendall (2021). <i>“Not all icequakes are created equal: Diverse bed deformation mechanisms at Rutford Ice Stream, West Antarctica, inferred from basal seismicity”</i> JGR: Earth Surface</li>
+		<li>A Brisbourne, JM Kendall, SK Kufner, <b>T Hudson</b>, and A Smith (2021). <i>“Downhole distributed acoustic seismic profiling at Skytrain Ice Rise, West Antarctica”</i> The Cryosphere.</li>
+	</ul>
+
 	<h4>2020</h4>
 	<ul class="alt">
 		<li><b>T Hudson</b>, A Brisbourne, R White, JM Kendall, R Arthern,A Smith (2020) <i>“Breaking the ice: How to identify hydraulically-forced crevassing”</i>, Geophysical Research Letters</li>
@@ -39,9 +57,10 @@ Please find a list of my publications below or on <a href="https://scholar.googl
 
 	<h4></h4>
 	<ul class="alt">
-		<li><b>T Hudson</b>, JM Kendall, SK Kufner, A Brisbourne, A Smith, A Chalari, A Clarke (in review) <i>“Distributed acoustic sensing (DAS) for microseismicity studies: A case study from Antarctica”</i> JGR: Solid Earth</li>
-		<li>SK Kufner, A Brisbourne, A Smith, <b>T Hudson</b>, T Murray, R Schlegel, JM Kendall (in review). <i>“Not all icequakes are created equal: Diverse bed deformation mechanisms at Rutford Ice Stream, West Antarctica, inferred from basal seismicity”</i> JGR: Earth Surface</li>
-		<li>A Brisbourne, JM Kendall, SK Kufner, <b>T Hudson</b>, and A Smith (in review). <i>“Downhole distributed acoustic seismic profiling at Skytrain Ice Rise, West Antarctica”</i> The Cryosphere.</li>
+		<li><b>Hudson, T. S.</b>, Kufner, SK., Brisbourne, A.M., Kendall, JM., Smith, A.M., Arthern, R., Alley, R., Murray, T.. (in review) <i>"Friction and slip measured at the bed of an Antarctic ice stream."</i> Nature Geoscience.</li>
+		<li>Kufner, SK., Wookey, J., Brisbourne, A.M., Garcia, C.M., <b>Hudson, T.S.</b>, Kendall, MK., Smith, A.M.. (in review) <i>"Constraining ice fabric in a fast-flowing Antarctic ice stream using icequakes."</i> Journal of Geophysical Research: Earth Surface.</li>
+		<li>Gauntlett, M.,  <b>Hudson, T.S.</b>,  Kendall, JM,  Rawlinson, N.,  Blundy, J.D.,  Lapins, S., Goitom, B., Hammond, J.O.S.;  Oppenheimer, C.,  Ogubazghi, G.. (in review) <i>"Seismic tomography of Nabro caldera, Eritrea: insights into the magmatic and hydrothermal systems of a recently erupted volcano."</i> JGR Solid Earth.</li>
+
 	</ul>
 
 </section>
