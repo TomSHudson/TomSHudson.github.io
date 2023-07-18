@@ -1,7 +1,7 @@
 # Site settings
 title: Tom Hudson
 email: thomas.hudson@earth.ox.ac.uk
-description: Welcome to my personal webpage detailing my research.
+description: I'm a seismologist with expertise using very small earthquakes to study fluid processes at various scales, from metres below the surface at glaciers to 10s km into Earth's crust at volcanoes. I focus on systems that are particularly pertinent to society. Below you can explore current projects, publications and software.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tomshudson.github.io" # the base hostname & protocol for your site
 author: Tom Hudson
