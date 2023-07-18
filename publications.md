@@ -10,7 +10,10 @@ Please find a list of my publications below or on <a href="https://scholar.googl
 
 	<h4>2023</h4>
 	<ul class="alt">
+		<li><b>Hudson, T.S.</b>, Kufner, SK., Brisbourne, A.M., Kendall, JM., Smith, A M., Arthern, R., Alley, R., Murray, T..  (2023). <i>"Friction and slip measured at the bed of an Antarctic ice stream."</i> Nature Geoscience.</li>
 		<li><b>Hudson, T.S.</b>, Kendall, J.-M., Blundy, J.D.,Pritchard, M.E., MacQueen, P., Wei, S.S., Gottsmann, J., Lapins, S.. (2023). <i>"Hydrothermal fluids and where to find them: Using seismic attenuation and anisotropy to map fluids beneath Uturuncu volcano, Bolivia."</i> Geophysical Research Letters.</li>
+		<li>Gauntlett, M.,  <b>Hudson, T.S.</b>, Kendall, MK., Smith, A.M..  (2023). <i>"Constraining ice fabric in a fast-flowing Antarctic ice stream using icequakes."</i> JGR: Earth Surface.</li>
+		<li>Kufner, SK., Wookey, J., Brisbourne, A.M., Garcia, C.M.,  <b>Hudson, T.S.</b>, Kendall, J. M., Rawlinson, N., Blundy, J., Lapins, S..  (2023). <i>"Seismic Tomography of Nabro Caldera, Eritrea: Insights Into the Magmatic and Hydrothermal Systems of a Recently Erupted Volcano."</i> JGR: Earth Surface.</li>
 	</ul>
 
 	<h4>2022</h4>
@@ -57,9 +60,8 @@ Please find a list of my publications below or on <a href="https://scholar.googl
 
 	<h4></h4>
 	<ul class="alt">
-		<li><b>Hudson, T. S.</b>, Kufner, SK., Brisbourne, A.M., Kendall, JM., Smith, A.M., Arthern, R., Alley, R., Murray, T.. (in review) <i>"Friction and slip measured at the bed of an Antarctic ice stream."</i> Nature Geoscience.</li>
-		<li>Kufner, SK., Wookey, J., Brisbourne, A.M., Garcia, C.M., <b>Hudson, T.S.</b>, Kendall, MK., Smith, A.M.. (in review) <i>"Constraining ice fabric in a fast-flowing Antarctic ice stream using icequakes."</i> Journal of Geophysical Research: Earth Surface.</li>
-		<li>Gauntlett, M.,  <b>Hudson, T.S.</b>,  Kendall, JM,  Rawlinson, N.,  Blundy, J.D.,  Lapins, S., Goitom, B., Hammond, J.O.S.;  Oppenheimer, C.,  Ogubazghi, G.. (in review) <i>"Seismic tomography of Nabro caldera, Eritrea: insights into the magmatic and hydrothermal systems of a recently erupted volcano."</i> JGR Solid Earth.</li>
+		<li><b>Hudson, T. S.</b>, Brisbourne, A.M., Kufner, S., Kendall, J., & Smith, A.  (in review) <i>"Array processing in cryoseismology."</i> The Cryosphere.</li>
+		<li><b>Hudson, T. S.</b>, Asplet, J., & Walker, A. M. (in review) <i>"Automated shear-wave splitting analysis for single- and multi- layer anisotropic media."</i> Seismica.</li>
 
 	</ul>
 

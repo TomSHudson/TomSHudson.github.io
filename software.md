@@ -5,6 +5,13 @@ image: nasa-Q1p7bh3SHj8-unsplash.jpg
 Here is a list of software that I have developed or contributed to. It is all open source, so feel free to download any of it for your own use. Please acknowledge using the relevent papers if you feel it is appropriate to. I hope you find it useful!
 
 <section>
+	<h3 class="major">SWSPy</h3>
+
+    <p><code>SWSPy</code> is a python package for performing shear-wave velocity anisotropy analysis via the shear-wave splitting method. An exciting feature is that it suppots multi-layer media. It is available on <a href="https://github.com/TomSHudson/swspy">GitHub</a>, with documentation on <a href="https://swspy.readthedocs.io/en/latest/">ReadTheDocs</a>.</p>.
+
+    <span class="image fit"><img src="/assets/images/swspy_logo.png" /></span>
+
+<section>
 	<h3 class="major">SeisSrcMoment</h3>
 
     <p><code>SeisSrcMoment</code> is a python package for calculating earthquake moment magnitudes and doing magnitude catalague analysis such as b-value analysis. It is available on <a href="https://github.com/TomSHudson/SeisSrcMoment">GitHub</a>, with documentation on <a href="https://seissrcmoment.readthedocs.io/en/latest/">ReadTheDocs</a>.</p>
