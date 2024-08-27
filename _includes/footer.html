@@ -1,17 +1,8 @@
-</div>
-
-  <!-- Footer -->
-  <footer id="footer">
-    <p class="copyright">&copy; {{ site.title }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
-  </footer>
-
-</div>
-
-<!-- Background image -->
-<div id="bg"></div>
-
-<!-- Scripts -->
-<script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/util.js' | absolute_url }}"></script>
-<script src="{{ 'assets/js/main.js' | absolute_url }}"></script>
+<footer class="footer">
+    <p>&copy; {{site.username}}</p>
+    <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/nrandecker">Nathan Randecker</a></p>
+</footer>
+<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include google-analytics.html %}
